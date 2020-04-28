@@ -1,2 +1,2 @@
 # java-project
-Edit to see AWS Code build: Hello world
+Edit to see AWS Code build. Hello
